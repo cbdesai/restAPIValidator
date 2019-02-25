@@ -1,0 +1,2 @@
+# Not a correct script yet
+curl -i -X PUT -H 'Content-Type: application/json' -d '{"collectionName": "Parties","partyName": "UpdatedParty222", "partyLastName": "UpdatedPartyL222"}' http://localhost:3000/collections/5c4fa9abad9aea45b8c16633
